@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?NikolayDimitriev=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NikolayDimitriev)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **NikolayDimitriev/NikolayDimitriev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
