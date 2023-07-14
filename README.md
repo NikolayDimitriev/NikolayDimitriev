@@ -20,12 +20,15 @@
 
 </details>
 
-
+<details>
+<summary>🏆 Моя статистика:</summary>
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NikolayDimitriev&theme=solarized_dark)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NikolayDimitriev&theme=solarized_dark) ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NikolayDimitriev&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NikolayDimitriev&theme=solarized_dark)    ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NikolayDimitriev&theme=solarized_dark)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=NikolayDimitriev&theme=solarized_dark) ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NikolayDimitriev&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=NikolayDimitriev&theme=solarized_dark)    ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NikolayDimitriev&theme=solarized_dark)
+
+</details>
 
 ![](https://komarev.com/ghpvc/?username=NikolayDimitriev)
