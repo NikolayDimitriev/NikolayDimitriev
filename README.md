@@ -25,7 +25,7 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=NikolayDimitriev&theme=tokyonight-duo&mode=weekly&hide_longest_streak=true)](https://git.io/streak-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NikolayDimitriev)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NikolayDimitriev&theme=black)](https://github.com/anuraghazra/github-readme-stats)
 
 
 </details>
