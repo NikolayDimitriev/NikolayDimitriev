@@ -25,7 +25,7 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=NikolayDimitriev&theme=tokyonight-duo&mode=weekly&hide_longest_streak=true)](https://git.io/streak-stats)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NikolayDimitriev&theme=solarized_dark)    ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NikolayDimitriev&theme=solarized_dark)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NikolayDimitriev)](https://github.com/anuraghazra/github-readme-stats)
 
 
 </details>
