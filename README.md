@@ -23,7 +23,7 @@
 <details>
 <summary>🏆 Моя статистика:</summary>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NikolayDimitriev&theme=solarized_dark)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NikolayDimitriev)](https://git.io/streak-stats)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NikolayDimitriev&theme=solarized_dark)    ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NikolayDimitriev&theme=solarized_dark)
 
